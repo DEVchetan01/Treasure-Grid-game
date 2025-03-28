@@ -1,4 +1,4 @@
-# Grid-Based Game
+# 💰 Grid-Based Game 
 
 ## Problem Overview
 
@@ -45,4 +45,14 @@ To run the game locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/DEVchetan01/Treasure-Grid-game.git
+2. Navigate to the project folder:
+   ```bash
+   cd your-repository
+3. Run the game:
+   ```bash
+   node main.js
+
+That's it! You're ready to Grid Game.
+
+
