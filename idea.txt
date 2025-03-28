@@ -1,0 +1,15 @@
+Game Concept:
+The game takes place on a grid.
+
+The treasure ("💰") is hidden at a random location.
+
+Players ("P1", "P2", etc.) start at random positions.
+
+If a player lands on the treasure, they win.
+
+If two players land on the same spot, they are eliminated.
+
+Players move every 5 seconds in a random direction (up, down, left, right, or diagonally).
+
+
+node main.js
